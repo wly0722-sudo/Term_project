@@ -1,0 +1,7 @@
+path: C:\Users\82104\Desktop\term_project\yolo_davis_dataset
+train: images/train
+val: images/val
+test: images/test
+
+names:
+  0: target_object
